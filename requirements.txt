@@ -1,0 +1,8 @@
+discord.py
+chatterbot
+chatterbot_corpus
+nest_asyncio
+transformers
+torch
+groq
+requests
